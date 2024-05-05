@@ -1,0 +1,10 @@
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\bin\Debug\cajeroatmm.exe.config
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\bin\Debug\cajeroatmm.exe
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\bin\Debug\cajeroatmm.pdb
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.csproj.AssemblyReference.cache
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.Form1.resources
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.Properties.Resources.resources
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.csproj.GenerateResource.cache
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.csproj.CoreCompileInputs.cache
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.exe
+C:\Users\lehal\source\repos\cajeroatmm\cajeroatmm\obj\Debug\cajeroatmm.pdb
